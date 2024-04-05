@@ -1,0 +1,2 @@
+# FibonacciGo
+Fibonacci in Go.
